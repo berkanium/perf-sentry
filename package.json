@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "perf-sentry"
+    "url": "https://github.com/perf-sentry/perf-sentry"
   },
   "keywords": [
     "performance",
