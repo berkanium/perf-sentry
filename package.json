@@ -24,7 +24,7 @@
     "perf_hooks": "^0.0.1"
   },
   "dependencies": {
-    "helmet": "^4.6.0",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "helmet": "^4.6.0"
   }
 }
