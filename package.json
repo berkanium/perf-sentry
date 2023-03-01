@@ -1,0 +1,30 @@
+{
+  "name": "perf-sentry",
+  "version": "1.0.2",
+  "description": "perf-sentry is a tool for detecting and optimizing performance issues in Node.js projects. This package includes an analysis module to scan all project source code and calculate performance durations for each file. The analysis results are presented in a detailed and graphical way on a per-file basis using the reporting module. The package is easy to use, customizable, and takes security concerns into account. Node.js developers can use perf-sentry to perform performance analysis on their projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "perf-sentry"
+  },
+  "keywords": [
+    "performance",
+    "analysis",
+    "report",
+    "node.js"
+  ],
+  "author": "Bytecth Software Solutions",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "perf_hooks": "^0.0.1"
+  },
+  "dependencies": {
+    "helmet": "^4.6.0",
+    "cors": "^2.8.5"
+  }
+}
