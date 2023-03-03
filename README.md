@@ -18,7 +18,7 @@ To use `perf-sentry`, navigate to the root directory of your project and run the
 
 This will scan all files in your project and generate a performance report in your terminal. You can also generate an HTML report by passing the -o or --output flag followed by a file name. For example:
 
-`npx perf-sentry -o index.html`
+`npx perf-sentry -o report.html`
  
 This will generate an HTML report in the current directory with the name `report.html`.
 
